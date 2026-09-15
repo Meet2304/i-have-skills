@@ -1,0 +1,20 @@
+schema_version: 1
+id: google-resume-review
+name: Google Resume Review
+description: Improve technical resumes using a workshop-derived Google application rubric.
+origin: personal
+authors:
+  - name: Meet Bhatt
+license: UNLICENSED
+source:
+  type: workshop-notes
+  note: Paraphrased from personal notes and photographs; source images are not redistributed.
+compatibility:
+  standard: agent-skills
+  harnesses: []
+tags:
+  - resume
+  - google
+  - internships
+  - career
+  - technical-resume

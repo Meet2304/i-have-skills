@@ -57,3 +57,4 @@ The repository structure is ready. Skills and harness adapters will be added as 
 | [i-have-adhd](skills/community/i-have-adhd/) | [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | ADHD-friendly output and execution style |
 | [frontend-design](skills/community/frontend-design/) | [anthropics/skills](https://github.com/anthropics/skills) | Distinctive, intentional frontend design |
 | [docker-compose-workshop](skills/community/docker-compose-workshop/) | [14-848 Cloud Infrastructure](https://github.com/14-848-Cloud-Infrastructure/docker-compose) | Docker Compose fundamentals through a WordPress/MySQL lab |
+| [google-resume-review](skills/personal/google-resume-review/) | Meet Bhatt | Workshop-informed technical resume review with evidence-gathering questions |

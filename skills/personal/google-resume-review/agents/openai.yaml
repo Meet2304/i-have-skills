@@ -1,0 +1,4 @@
+interface:
+  display_name: "Google Resume Review"
+  short_description: "Improve technical resumes using workshop rubrics"
+  default_prompt: "Use $google-resume-review to audit this resume and ask me for the missing evidence before rewriting it."

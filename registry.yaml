@@ -24,3 +24,11 @@ skills:
       url: https://github.com/14-848-Cloud-Infrastructure/docker-compose
       revision: e8f44abb0a94c73ddb80e29a22423b3757214b51
     license: GPL-3.0-only
+  - id: google-resume-review
+    path: skills/personal/google-resume-review
+    origin: personal
+    description: Workshop-informed technical resume review with evidence-gathering questions.
+    source:
+      type: workshop-notes
+      revision: 1
+    license: UNLICENSED

@@ -1,0 +1,19 @@
+schema_version: 1
+id: docker-compose-workshop
+name: Docker Compose Workshop
+description: Learn the Docker Compose lifecycle with a WordPress and MySQL lab.
+origin: community
+authors:
+  - name: 14-848 Cloud Infrastructure
+license: GPL-3.0-only
+source:
+  url: https://github.com/14-848-Cloud-Infrastructure/docker-compose
+  revision: e8f44abb0a94c73ddb80e29a22423b3757214b51
+compatibility:
+  standard: agent-skills
+  harnesses: []
+tags:
+  - cloud-infrastructure
+  - docker
+  - docker-compose
+  - containers

@@ -1,0 +1,24 @@
+schema_version: 1
+id: i-have-adhd
+name: I Have ADHD
+description: Shape agent output so an ADHD reader can act on it.
+origin: community
+authors:
+  - name: Ayoub Ghriss
+license: MIT
+source:
+  url: https://github.com/ayghri/i-have-adhd
+  revision: 0a84de401019a3a822248df586d88a2b56f8c6af
+  path: skills/i-have-adhd
+compatibility:
+  standard: agent-skills
+  harnesses:
+    - codex
+    - claude-code
+    - cursor
+    - gemini-cli
+    - opencode
+tags:
+  - adhd
+  - productivity
+  - output-style

@@ -1,2 +1,26 @@
 schema_version: 1
-skills: []
+skills:
+  - id: i-have-adhd
+    path: skills/community/i-have-adhd
+    origin: community
+    description: ADHD-friendly output and execution style.
+    source:
+      url: https://github.com/ayghri/i-have-adhd
+      revision: 0a84de401019a3a822248df586d88a2b56f8c6af
+    license: MIT
+  - id: frontend-design
+    path: skills/community/frontend-design
+    origin: community
+    description: Distinctive, intentional frontend design guidance.
+    source:
+      url: https://github.com/anthropics/skills/tree/main/skills/frontend-design
+      revision: 34040c9c568585f6929bedeaad110ad08f079624
+    license: Apache-2.0
+  - id: docker-compose-workshop
+    path: skills/community/docker-compose-workshop
+    origin: community
+    description: Docker Compose fundamentals through the 14-848 WordPress and MySQL lab.
+    source:
+      url: https://github.com/14-848-Cloud-Infrastructure/docker-compose
+      revision: e8f44abb0a94c73ddb80e29a22423b3757214b51
+    license: GPL-3.0-only

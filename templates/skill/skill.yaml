@@ -1,0 +1,15 @@
+schema_version: 1
+id: replace-with-skill-id
+name: Replace with skill name
+description: Explain what the skill does.
+origin: personal # personal | community
+authors:
+  - name: Meet Bhatt
+license: UNLICENSED
+source:
+  url: null
+  revision: null
+compatibility:
+  standard: agent-skills
+  harnesses: []
+tags: []

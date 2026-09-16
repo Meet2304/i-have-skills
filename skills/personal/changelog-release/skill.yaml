@@ -1,0 +1,23 @@
+schema_version: 1
+id: changelog-release
+name: Changelog Release
+description: Add and verify a release section on the Project Linea changelog.
+origin: personal
+authors:
+  - name: Meet Bhatt
+license: MIT
+source:
+  url: https://github.com/Meet2304/Project-Linea
+  revision: 62c63be1686fee7fb850cc478d50a5c477a35a92
+  path: .claude/skills/changelog-release
+compatibility:
+  standard: agent-skills
+  harnesses:
+    - claude-code
+    - codex
+tags:
+  - linea
+  - changelog
+  - release
+  - frontend
+

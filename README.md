@@ -1,10 +1,10 @@
-# Master Skills
+# I Have Skills
 
 A portable collection of personal and community-built AI agent skills for use across coding harnesses.
 
 ## Purpose
 
-Master Skills is the source of truth for reusable instructions, workflows, scripts, and references that can be shared across projects and adapted to different AI coding agents.
+I Have Skills is the source of truth for reusable instructions, workflows, scripts, and references that can be shared across projects and adapted to different AI coding agents.
 
 - Keep skills harness-agnostic whenever possible.
 - Separate original skills from third-party skills.
@@ -14,7 +14,7 @@ Master Skills is the source of truth for reusable instructions, workflows, scrip
 ## Repository layout
 
 ```text
-master-skills/
+i-have-skills/
 ├── skills/
 │   ├── personal/          # Skills authored or substantially maintained by Meet
 │   └── community/         # Third-party skills preserved with attribution
@@ -58,3 +58,4 @@ The repository structure is ready. Skills and harness adapters will be added as 
 | [frontend-design](skills/community/frontend-design/) | [anthropics/skills](https://github.com/anthropics/skills) | Distinctive, intentional frontend design |
 | [docker-compose-workshop](skills/community/docker-compose-workshop/) | [14-848 Cloud Infrastructure](https://github.com/14-848-Cloud-Infrastructure/docker-compose) | Docker Compose fundamentals through a WordPress/MySQL lab |
 | [google-resume-review](skills/personal/google-resume-review/) | Meet Bhatt | Workshop-informed technical resume review with evidence-gathering questions |
+| [changelog-release](skills/personal/changelog-release/) | Meet Bhatt / [Project Linea](https://github.com/Meet2304/Project-Linea) | Add and verify Linea changelog release sections |

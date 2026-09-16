@@ -32,3 +32,12 @@ skills:
       type: workshop-notes
       revision: 1
     license: UNLICENSED
+  - id: changelog-release
+    path: skills/personal/changelog-release
+    origin: personal
+    description: Add and verify a release section on the Project Linea changelog.
+    source:
+      url: https://github.com/Meet2304/Project-Linea
+      revision: 62c63be1686fee7fb850cc478d50a5c477a35a92
+      path: .claude/skills/changelog-release
+    license: MIT

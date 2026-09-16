@@ -1,6 +1,12 @@
+<div align="center">
+
+<img src="i-have-skills_Header_v0.1.png" alt="I Have Skills — a collection of portable AI agent skills" width="100%">
+
 # I Have Skills
 
-A portable collection of personal and community-built AI agent skills for use across coding harnesses.
+**A portable collection of personal and community-built AI agent skills for use across coding harnesses.**
+
+</div>
 
 ## Purpose
 
